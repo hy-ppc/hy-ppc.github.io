@@ -11,7 +11,7 @@ no other deadlines.
 ### Discussion
 
 Join the course Discord channel via
-https://study.cs.helsinki.fi/discord/join/ppc. This is the primary avenue for
+<https://study.cs.helsinki.fi/discord/join/ppc>. This is the primary avenue for
 asking for help and other discussion about the course.
 
 ### Content
@@ -22,10 +22,10 @@ instance, last year the University of Helsinki version of the course stretched
 each "week" into two calendar weeks.
 
 Lecture material and recordings of lectures given by Jukka Suomela are available
-at https://ppc.cs.aalto.fi/.
+at <https://ppc.cs.aalto.fi/>.
 
 Exercises are described and submitted at
-https://ppc-exercises.cs.aalto.fi/course/hy2022.
+<https://ppc-exercises.cs.aalto.fi/course/hy2022>.
 
 The coursework is divided into _exercises_ and _tasks_. The tasks within each
 exercise focus on the same computational problem, but the intended techniques
@@ -116,7 +116,7 @@ CP task will not be accepted.
 
 ## Participating
 
-Read the instructions at https://ppc-exercises.cs.aalto.fi/help carefully.
+Read the instructions at <https://ppc-exercises.cs.aalto.fi/help> carefully.
 
 Some details in the instructions only apply to lecture courses with weekly
 deadlines. Specific to this course,
@@ -146,7 +146,7 @@ then you can add the `--remote` flag to instead run the command remotely.
 ```
 
 When trying this for the first time, you will be instructed to configure an API
-token. Obtain an API token at https://ppc-exercises.cs.aalto.fi/token, and
+token. Obtain an API token at <https://ppc-exercises.cs.aalto.fi/token>, and
 paste it into a configuration file in one of the suggested locations.
 
 Your code and the specified tests are then sent to our grading servers, where
@@ -160,7 +160,7 @@ submissions.
 ### Completing the course
 
 Grading is described at the end of the course page,
-https://ppc-exercises.cs.aalto.fi/course/hy2022. The minimum amount of points
+<https://ppc-exercises.cs.aalto.fi/course/hy2022>. The minimum amount of points
 for course credits is 36. Additionally, you must have at least one point from
 every required task, i.e. CP1, MF2, CP3a, SO4 and CP5.
 
