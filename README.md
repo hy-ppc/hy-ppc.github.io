@@ -31,88 +31,12 @@ The coursework is divided into _exercises_ and _tasks_. The tasks within each
 exercise focus on the same computational problem, but the intended techniques
 to solve them are different in each task.
 
-Tasks are numbered according to the week they are intended to be worked on.
-Although many tasks are recommended, it is not necessary to complete, much less
-get full points in all of them to achieve a good grade. However, weeks 1–5 have
-**required** tasks, each of which you will need to get *at least one point* in
-to get course credits.
+Tasks are numbered according to the week they are intended to be worked on. It
+is not necessary to complete, much less get full points in all of them to
+achieve a good grade. However, weeks 1–5 have **required** tasks, each of which
+you will need to get *at least one point* in to get course credits.
 
-#### Week 0
-
-This week consists of the task *Pre0*, the prerequisite test worth one course
-point. It is not required, but some knowledge of C++ is assumed as
-prerequisite for the course. It is possible to complete the course without
-much prior knowledge in C++, but this will be more challenging and require
-additional self-study.
-
-#### Week 1
-
-Introduction to the course and instruction-level parallelism.
-
-Tasks this week: CP1, MF1
-
-**Required task: CP1**
-
-You are introduced to the exercises CP (correlated pairs), and MF (median
-filter). The tasks CP1 and MF1 have you implement baseline CPU solutions to
-these exercises, which are then improved upon using various techniques in
-further weeks.
-
-#### Week 2
-
-Multicore parallelism with OpenMP and vector operations.
-
-Tasks this week: CP2a, CP2b, CP2c, MF2
-
-**Required task: MF2**
-
-In tasks CP2abc, it is intended that you only use one technique in each task,
-and not e.g. all previous techniques combined. CP2a is about
-instruction-level parallelism, CP2b is about multicore parallelism, and CP2c
-is about vector operations. The techniques will be combined next week.
-
-#### Week 3
-
-Combining vectorization, instruction-level and multicore parallelism. Reusing
-data in registers and cache.
-
-Tasks this week: CP3a, CP3b
-
-**Required task: CP3a**
-
-It is intentionally very challenging to get full points from these tasks. You
-will need to apply your knowledge and experiment with different approaches.
-
-#### Week 4
-
-Introduction to GPU and CUDA programming.
-
-Tasks this week: CP4, IS4, SO4
-
-**Required task: SO4**
-
-#### Week 5
-
-GPU programming in depth.
-
-Tasks this week: CP5, SO5
-
-**Required task: CP5**
-
-#### Week 6
-
-Assorted algorithmic techniques for designing high performance parallel
-programs. Concluding the course.
-
-Tasks this week: IS6a, IS6b, SO6
-
-#### Additional tasks
-
-There are also the additional tasks CP9a, IS9a and MF9a which you may want to do
-for further insight and course points.
-
-For CP9a, you must use Strassen's algorithm. Submitting a solution from another
-CP task will not be accepted.
+Read more about the structure of the course [below](#course-structure).
 
 ## Participating
 
@@ -122,7 +46,9 @@ Some details in the instructions only apply to lecture courses with weekly
 deadlines. Specific to this course,
 
 - There is less human feedback. Occasional spot chekcs may be made to confirm
-  that you are following the instructions of each task correctly.
+  that you are following the instructions of each task correctly. Also check
+  the [course structure](#course-structure) for additional clarifications to
+  the task instructions.
 - The option "This submission is ready for grading" is selected for you
   automatically. This means that your submission is visible to course staff and
   subject to manual review. If you do not want this for a specific submission,
@@ -169,3 +95,82 @@ Antti Laaksonen ([ahslaaks@cs.helsinki.fi](mailto:ahslaaks@cs.helsinki.fi)) so
 we can register your credits in SISU. We may still review some of your
 submissions at this point, but we will only deduct points for major issues. You
 will also be able to go back and fix the issues if it affects your grade.
+
+## Course structure
+
+### Week 0
+
+This week consists of the task *Pre0*, the prerequisite test worth one course
+point. It is not required, but some knowledge of C++ is assumed as
+prerequisite for the course. It is possible to complete the course without
+much prior knowledge in C++, but this will be more challenging and require
+additional self-study.
+
+### Week 1
+
+Introduction to the course and instruction-level parallelism.
+
+Tasks this week: CP1, MF1
+
+**Required task: CP1**
+
+You are introduced to the exercises CP (correlated pairs), and MF (median
+filter). The tasks CP1 and MF1 have you implement baseline CPU solutions to
+these exercises, which are then improved upon using various techniques in
+further weeks.
+
+### Week 2
+
+Multicore parallelism with penMP and vector operations.
+
+Tasks this week: CP2a, CP2b, CP2c, MF2
+
+**Required task: MF2**
+
+In tasks CP2abc, it is intended that you only use one technique in each task,
+and not e.g. all previous techniques combined. CP2a is about
+instruction-level parallelism, CP2b is about multicore parallelism, and CP2c
+is about vector operations. The techniques will be combined next week.
+
+### Week 3
+
+Combining vectorization, instruction-level and multicore parallelism. Reusing
+data in registers and cache.
+
+Tasks this week: CP3a, CP3b
+
+**Required task: CP3a**
+
+It is intentionally very challenging to get full points from these tasks. You
+will need to apply your knowledge and experiment with different approaches.
+
+### Week 4
+
+Introduction to GPU and CUDA programming.
+
+Tasks this week: CP4, IS4, SO4
+
+**Required task: SO4**
+
+### Week 5
+
+GPU programming in depth.
+
+Tasks this week: CP5, SO5
+
+**Required task: CP5**
+
+### Week 6
+
+Assorted algorithmic techniques for designing high performance parallel
+programs. Concluding the course.
+
+Tasks this week: IS6a, IS6b, SO6
+
+### Additional tasks
+
+There are also the additional tasks CP9a, IS9a and MF9a which you may want to do
+for further insight and course points.
+
+For CP9a, you must use Strassen's algorithm. Submitting a solution from another
+CP task will not be accepted.
