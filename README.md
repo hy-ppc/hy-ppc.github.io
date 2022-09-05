@@ -57,7 +57,7 @@ Read the instructions at <https://ppc-exercises.cs.aalto.fi/help> carefully.
 Some details in the instructions only apply to lecture courses with weekly
 deadlines. Specific to this course,
 
-- There is less human feedback. Occasional spot chekcs may be made to confirm
+- There is less human feedback. Occasional spot checks may be made to confirm
   that you are following the instructions of each task correctly. Also check
   the [course structure](#course-structure) for additional clarifications to
   the task instructions.
@@ -77,7 +77,7 @@ If, for example, you used this command to test locally:
 ./grading test
 ```
 
-then you can add the `--remote` flag to instead run the command remotely.
+then you can add the `--remote` flag to run the command remotely instead.
 
 ```
 ./grading test --remote
