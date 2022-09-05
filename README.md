@@ -14,6 +14,15 @@ Join the course Discord channel via
 <https://study.cs.helsinki.fi/discord/join/ppc>. This is the primary avenue for
 asking for help and other discussion about the course.
 
+### Contact
+
+Antti Laaksonen
+([ahslaaks@cs.helsinki.fi](mailto:ahslaaks@cs.helsinki.fi)) is responsible
+for the course administration. Roope Salmi
+([roope.j.salmi@helsinki.fi](mailto:roope.j.salmi@helsinki.fi)) serves
+as a teaching assistant and is responsible for the technical aspect of
+the course.
+
 ### Content
 
 The course is designed to be completed in six intensive weeks, plus the
