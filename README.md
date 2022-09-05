@@ -121,7 +121,7 @@ further weeks.
 
 ### Week 2
 
-Multicore parallelism with penMP and vector operations.
+Multicore parallelism with OpenMP and vector operations.
 
 Tasks this week: CP2a, CP2b, CP2c, MF2
 
