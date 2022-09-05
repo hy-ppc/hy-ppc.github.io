@@ -8,6 +8,9 @@ The course is open for the entire academic year 2022–2023, specifically from
 5.9.2022 to 31.8.2023. You can complete it on your own schedule and there are
 no other deadlines.
 
+For technical reasons, the course is initially marked as ending at 31.12.2022
+in SISU, but you can disregard this.
+
 ### Discussion
 
 Join the course Discord channel via
