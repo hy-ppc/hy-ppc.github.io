@@ -45,7 +45,7 @@ to solve them are different in each task.
 
 Tasks are numbered according to the week they are intended to be worked on. It
 is not necessary to complete, much less get full points in all of them to
-achieve a good grade. However, weeks 1–5 have **required** tasks, each of which
+achieve a good grade. However, weeks 1–5 have **mandatory** tasks, each of which
 you will need to get *at least one point* in to get course credits.
 
 Read more about the structure of the course [below](#course-structure).
@@ -100,7 +100,7 @@ submissions.
 Grading is described at the end of the course page,
 <https://ppc-exercises.cs.aalto.fi/course/hy2022>. The minimum amount of points
 for course credits is 36. Additionally, you must have at least one point from
-every required task, i.e. CP1, MF2, CP3a, SO4 and CP5.
+every mandatory task, i.e. CP1, MF2, CP3a, SO4 and CP5.
 
 Once you are satisfied with the points and grade you have achieved, contact
 Antti Laaksonen ([ahslaaks@cs.helsinki.fi](mailto:ahslaaks@cs.helsinki.fi)) so
@@ -124,7 +124,7 @@ Introduction to the course and instruction-level parallelism.
 
 Tasks this week: CP1, MF1
 
-**Required task: CP1**
+**Mandatory task: CP1**
 
 You are introduced to the exercises CP (correlated pairs), and MF (median
 filter). The tasks CP1 and MF1 have you implement baseline CPU solutions to
@@ -137,7 +137,7 @@ Multicore parallelism with OpenMP and vector operations.
 
 Tasks this week: CP2a, CP2b, CP2c, MF2
 
-**Required task: MF2**
+**Mandatory task: MF2**
 
 In tasks CP2abc, it is intended that you only use one technique in each task,
 and not e.g. all previous techniques combined. CP2a is about
@@ -151,7 +151,7 @@ data in registers and cache.
 
 Tasks this week: CP3a, CP3b
 
-**Required task: CP3a**
+**Mandatory task: CP3a**
 
 It is intentionally very challenging to get full points from these tasks. You
 will need to apply your knowledge and experiment with different approaches.
@@ -162,7 +162,7 @@ Introduction to GPU and CUDA programming.
 
 Tasks this week: CP4, IS4, SO4
 
-**Required task: SO4**
+**Mandatory task: SO4**
 
 ### Week 5
 
@@ -170,7 +170,7 @@ GPU programming in depth.
 
 Tasks this week: CP5, SO5
 
-**Required task: CP5**
+**Mandatory task: CP5**
 
 ### Week 6
 
