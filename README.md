@@ -103,8 +103,9 @@ for course credits is 36. Additionally, you must have at least one point from
 every mandatory task, i.e. CP1, MF2, CP3a, SO4 and CP5.
 
 Once you are satisfied with the points and grade you have achieved, contact
-Antti Laaksonen ([ahslaaks@cs.helsinki.fi](mailto:ahslaaks@cs.helsinki.fi)) so
-we can register your credits in SISU. We may still review some of your
+Antti Laaksonen ([ahslaaks@cs.helsinki.fi](mailto:ahslaaks@cs.helsinki.fi)) and
+provide the email address associated with your account and your student number
+so we can register your credits in SISU. We may still review some of your
 submissions at this point, but we will only deduct points for major issues. You
 will also be able to go back and fix the issues if it affects your grade.
 
