@@ -11,7 +11,9 @@ The course is open for the entire academic year 2023–2024, specifically from
 no other deadlines.
 
 For technical reasons, the course is initially marked as ending on 31.12.2023
-in SISU, but you can disregard this.
+in SISU, but you can disregard this. If you are unable to enrol on the course
+(e.g. because you don't have a study right for the whole duration), that is not
+necessary. Make sure to request credits before your study right ends, however.
 
 ### Discussion
 
