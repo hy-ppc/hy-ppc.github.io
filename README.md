@@ -34,7 +34,7 @@ the course.
 
 The course is designed to be completed in six intensive weeks, plus the
 prerequisite test. You may wish to complete the course at a slower pace. For
-instance, last year the University of Helsinki version of the course stretched
+instance, in 2021 the University of Helsinki version of the course stretched
 each "week" into two calendar weeks.
 
 Lecture material and recordings of lectures given by Jukka Suomela are available
