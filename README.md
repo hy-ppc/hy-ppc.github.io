@@ -99,7 +99,7 @@ submissions.
 ### Completing the course
 
 Grading is described at the end of the course page,
-<https://ppc-exercises.cs.aalto.fi/course/hy2023>. The minimum amount of points
+<https://ppc-exercises.cs.aalto.fi/course/hy2024>. The minimum amount of points
 for course credits is 54. Additionally, you must have at least one point from
 every mandatory task, i.e. CP1, MF2, CP3a, SO4 and CP5.
 
