@@ -18,7 +18,9 @@ request credits before your study right ends, however.
 
 Join the course Discord channel via
 <https://study.cs.helsinki.fi/discord/join/ppc>. This is the primary avenue for
-discussions about the course.
+asking for help and other discussion about the course.
+
+Oskar Lappi is the teaching assistant for the course.
 
 ### Contact
 
